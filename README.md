@@ -1,20 +1,125 @@
-# 💫 About Me:
-👋 Hi! I'm Rezky<br>👨‍🎓 Information Technology Student, Universitas Brawijaya<br>🖥️ Bangkit Academy 2024 led by Google, Goto, Traveloka
+<!-- Hero -->
+<h1 align="center">Hi, I'm Rezky 👋</h1>
+<h3 align="center">
+Quality Assurance Engineer • UI/UX Designer • AI-Driven Web Developer
+</h3>
 
+<p align="center">
+Detail-oriented QA with strong design sense and modern web skills.<br/>
+I build reliable products, beautiful interfaces, and efficient workflows — often powered by AI.
+</p>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/revannsyh_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rezkyrevansyah) 
-
-# 💻 Tech Stack:
-![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Dribbble](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=rezkyrevansyah&theme=gruvbox&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=rezkyrevansyah&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<p align="center">
+  <a href="https://linkedin.com/in/rezkyrevansyah">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin" />
+  </a>
+  <a href="https://instagram.com/revannsyh_">
+    <img src="https://img.shields.io/badge/Instagram-Follow-pink?style=flat&logo=instagram" />
+  </a>
+  <a href="https://medium.com/@rezkyrevansyah">
+    <img src="https://img.shields.io/badge/Medium-Read-black?style=flat&logo=medium" />
+  </a>
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=rezkyrevansyah&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🧠 About Me
+
+🎓 **Information Technology Graduate** — Universitas Brawijaya (GPA 3.74/4.00)  
+🧪 **Quality Assurance Engineer** (Manual & Automation)  
+🎨 **UI/UX Designer** focused on clarity and usability  
+🌐 **Website Developer** using AI-assisted *vibe coding*
+
+I’ve worked on **national-scale applications**, high-profile clients, and award-winning projects — collaborating closely with developers, product owners, and designers to deliver high-quality software.
+
+---
+
+## 🔥 What I Do Best
+
+### 🛡️ Quality Assurance
+- Manual Testing (Functional, Regression, E2E)
+- Automation Testing (Cypress, Selenium, Katalon)
+- Test Scenario & Test Case Design
+- Bug Tracking & QA Documentation
+- SDLC & Agile Collaboration
+
+### 🎨 UI/UX Design
+- User Research & Information Architecture
+- Wireframing & Prototyping
+- Usability Testing
+- Design Systems & Visual Consistency
+
+### 🌐 Web Development (AI-Driven)
+- AI-assisted website & web app development
+- Rapid prototyping & iteration
+- Design-to-code workflow
+- QA-friendly & scalable UI
+
+---
+
+## 🚀 AI-Collaborated Portfolio
+
+<sub><i>Projects built using AI-assisted vibe coding — from ideation, UI/UX, to implementation.</i></sub>
+
+| Project | Description | Demo |
+|------|-----------|------|
+| **☕ Kopi & Roti Senja** | UMKM coffee & bakery landing page | [Visit →](https://kopirotisenja.vercel.app/) |
+| **💰 Financial Tracking App** | Web app for finance tracking & monitoring | [Visit →](https://financial-revan.vercel.app) |
+| **🕌 Masjid Al Arqam Profile** | Mosque profile & activity information website | [Visit →](https://alarqam-bekasiutara.vercel.app) |
+| **🧺 Laundry Express Kilat** | Laundry service landing page (pickup & delivery) | [Visit →](https://laundry-umkm.vercel.app) |
+| **✨ GlowUp Clinic** | Beauty clinic company profile & services website | [Visit →](https://clinic-glowup.vercel.app) |
+| **🐢 Turtle Pricing Pro** | Pricing calculator web app for business | [Visit →](https://turtle-pro.vercel.app) |
+| **📊 Dashboard Test Cinta Zakat** | Internal QA & testing dashboard | [Visit →](https://dashboard-bayarzakat.vercel.app) |
+| **🍞 BakeTrack Dashboard** | Bakery operations & management dashboard | [Visit →](https://dashboarku-baketrack.vercel.app) |
+
+---
+
+## 🧰 Tech & Tools
+
+**Testing & QA**  
+`Cypress` `Selenium` `Katalon` `Postman` `Jira`
+
+**Design**  
+`Figma` `Adobe Illustrator`
+
+**Development**  
+`HTML` `CSS` `JavaScript` `VS Code` `GitHub`
+
+**Workflow**  
+`Slack` `Trello` `Google Workspace`
+
+---
+
+## 🏆 Highlights
+- 🏅 Top 50 Capstone Team — **Bangkit Academy 2024** (580+ teams)
+- 🥇 1st Place — App Development (Raion Hackjam 2022)
+- 🥈 2nd Place — UI/UX Design Competition (IT MOSPHERE 2022)
+- 🏆 Finalist — Multiple National UI/UX & Creative Competitions
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rezkyrevansyah&theme=gruvbox" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rezkyrevansyah&layout=compact&theme=gruvbox" />
+</p>
+
+---
+
+## ✍️ Dev Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=rezkyrevansyah&color=6" />
+</p>
+
+<!-- Built with quality, usability, and a bit of AI ✨ -->
