@@ -102,16 +102,14 @@ I’ve worked on **national-scale applications**, high-profile clients, and awar
 
 ## 📊 GitHub Contributions Graph
 
-<div align="center">
-  <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rezkyrevansyah&theme=tokyonight" 
-    alt="Rezky Revansyah GitHub Contributions Graph"
-  />
-</div>
-
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/rezkyrevansyah?cardType=octocat&theme=github&fontFamily=Montserrat&preferLogin=false)](https://git.io/awesome-stats-card)
-
-  <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=octocat&theme=github&fontFamily=Montserrat&preferLogin=false">    <img  alt="rezkyrevansyah's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/rezkyrevansyah?cardType=octocat&theme=github&fontFamily=Montserrat&preferLogin=false" />  </a>
+<p align="center">
+  <a href="https://git.io/awesome-stats-card">
+    <img
+      src="https://awesome-github-stats.azurewebsites.net/user-stats/rezkyrevansyah?cardType=octocat&theme=github&fontFamily=Montserrat&preferLogin=false"
+      alt="Rezky Revansyah GitHub Stats"
+    />
+  </a>
+</p>
 
 ---
 
