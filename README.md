@@ -16,8 +16,8 @@ I build reliable products, beautiful interfaces, and efficient workflows — oft
   <a href="https://instagram.com/revannsyh_">
     <img src="https://img.shields.io/badge/Instagram-Follow-pink?style=flat&logo=instagram" />
   </a>
-  <a href="https://medium.com/@rezkyrevansyah">
-    <img src="https://img.shields.io/badge/Medium-Read-black?style=flat&logo=medium" />
+  <a href="https://www.thisrevan.site/">
+    <img src="https://img.shields.io/badge/Website-thisrevan.site-black?style=flat&logo=google-chrome" />
   </a>
 </p>
 
