@@ -101,15 +101,17 @@ I’ve worked on **national-scale applications**, high-profile clients, and awar
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rezkyrevansyah&show_icons=true&theme=gruvbox&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com?user=rezkyrevansyah&theme=gruvbox&hide_border=false"
+    alt="GitHub Streak"
+  />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=rezkyrevansyah&theme=gruvbox&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rezkyrevansyah&layout=compact&theme=gruvbox&hide_border=true&langs_count=8" alt="Top Languages" />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=rezkyrevansyah&theme=gruvbox&hide_border=false&layout=compact"
+    alt="Top Languages"
+  />
 </p>
 
 ---
