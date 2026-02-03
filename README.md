@@ -100,19 +100,18 @@ I’ve worked on **national-scale applications**, high-profile clients, and awar
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com?user=rezkyrevansyah&theme=gruvbox&hide_border=false"
-    alt="GitHub Streak"
-  />
-</p>
+## 📊 GitHub Contributions Graph
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=rezkyrevansyah&theme=gruvbox&hide_border=false&layout=compact"
-    alt="Top Languages"
+<div align="center">
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rezkyrevansyah&theme=tokyonight" 
+    alt="Rezky Revansyah GitHub Contributions Graph"
   />
-</p>
+</div>
+
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/rezkyrevansyah?cardType=octocat&theme=github&fontFamily=Montserrat&preferLogin=false)](https://git.io/awesome-stats-card)
+
+  <a href="https://awesome-github-stats.azurewebsites.net/index.html??cardType=octocat&theme=github&fontFamily=Montserrat&preferLogin=false">    <img  alt="rezkyrevansyah's GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/rezkyrevansyah?cardType=octocat&theme=github&fontFamily=Montserrat&preferLogin=false" />  </a>
 
 ---
 
