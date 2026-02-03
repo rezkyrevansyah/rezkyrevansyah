@@ -98,8 +98,6 @@ I’ve worked on **national-scale applications**, high-profile clients, and awar
 
 ---
 
-## 📊 GitHub Stats
-
 ## 📊 GitHub Contributions Graph
 
 <p align="center">
