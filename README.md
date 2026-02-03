@@ -1,5 +1,5 @@
 <!-- Hero -->
-<h1 align="center">Hi, I'm Rezky 👋</h1>
+<h1 align="center">Hi, I'm Revan 👋</h1>
 <h3 align="center">
 Quality Assurance Engineer • UI/UX Designer • AI-Driven Web Developer
 </h3>
@@ -101,11 +101,21 @@ I’ve worked on **national-scale applications**, high-profile clients, and awar
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rezkyrevansyah&theme=gruvbox" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=rezkyrevansyah&show_icons=true&theme=gruvbox&hide_border=true"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rezkyrevansyah&layout=compact&theme=gruvbox" />
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com?user=rezkyrevansyah&theme=gruvbox&hide_border=true"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=rezkyrevansyah&layout=compact&theme=gruvbox&hide_border=true&langs_count=8"
+  />
 </p>
 
 ---
@@ -119,7 +129,7 @@ I’ve worked on **national-scale applications**, high-profile clients, and awar
 ---
 
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=rezkyrevansyah&color=6" />
+  <img src="https://komarev.com/ghpvc/?username=rezkyrevansyah&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 <!-- Built with quality, usability, and a bit of AI ✨ -->
