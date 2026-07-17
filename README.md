@@ -25,7 +25,7 @@ I build reliable products, beautiful interfaces, and efficient workflows — oft
 
 ## 🧠 About Me
 
-🎓 **Information Technology Graduate** — Universitas Brawijaya (GPA 3.74/4.00)  
+🎓 **Information Technology Graduate** — Universitas Brawijaya 
 🧪 **Quality Assurance Engineer** (Manual & Automation)  
 🎨 **UI/UX Designer** focused on clarity and usability  
 🌐 **Website Developer** using AI-assisted *vibe coding*
